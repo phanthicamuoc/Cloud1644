@@ -1,4 +1,4 @@
 <?php
-$conn = mysqli_connect('dt3bgg3gu6nqye5f.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'lti8i6728fwldavv','po5ktm7ofys5rmy3', 'fce1nljh8hkc9gbi')
+$conn = mysqli_connect('cis9cbtgerlk68wl.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'oeqn4ont9wldob7s','w3wjsxo3hkor9vy5', 'j8kzb953oxp68xak')
         or die("Can not connect database".mysqli_connect_error());
 ?>
