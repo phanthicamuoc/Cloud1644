@@ -64,7 +64,7 @@
 				<div>
 					<div class="col-sm-6" >
 						<div class="logo pull-left" >
-                            <a href="index.php" style="background-color:pink; color:black"> ToyStore
+                            <a href="index.php" style="background-color:pink; color:black"> ATN Shop
                             <img src="img/images (20).png" width="90" height="90"></a>
 						</div>
 					</div>
